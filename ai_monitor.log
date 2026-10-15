@@ -1,0 +1,15 @@
+2026-04-07 10:45:16,780 - AI Monitor Started... Checking for anomalies every 5 minutes.
+2026-04-07 10:45:20,418 - Alert successfully uploaded to ThingSpeak.
+2026-04-07 10:45:20,433 - [10:45:20] Status: Normal (Temp: 27.2)
+2026-04-07 10:45:20,445 - Sleeping for 5 minutes...
+2026-04-07 10:48:11,111 - AI Monitor Started... Checking for anomalies every 5 minutes.
+2026-04-07 10:48:14,247 - Alert successfully uploaded to ThingSpeak. Attempt 1/3.
+2026-04-07 10:48:14,266 - [10:48:14] Status: Normal (Temp: 27.3)
+2026-04-07 10:48:14,286 - Sleeping for 5 minutes...
+2026-04-28 13:40:37,322 - AI Monitor Started... Checking for anomalies every 5 minutes.
+2026-04-28 13:40:40,011 - Alert successfully uploaded to ThingSpeak. Attempt 1/3.
+2026-04-28 13:40:40,043 - [13:40:40] Status: Normal (Temp: 32.8)
+2026-04-28 13:40:40,045 - Sleeping for 5 minutes...
+2026-04-28 13:45:42,671 - Alert successfully uploaded to ThingSpeak. Attempt 1/3.
+2026-04-28 13:45:42,693 - [13:45:42] Status: Normal (Temp: 32.8)
+2026-04-28 13:45:42,699 - Sleeping for 5 minutes...
